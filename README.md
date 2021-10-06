@@ -1,5 +1,5 @@
 # charlotte-public
-Prototype implementation of the Charlotte ADDS framework.
+Prototype Java implementation of the Charlotte framework for Authenticated Distributed Data Structures (ADDS).
 
 Includes gRPC spec and implementation of example servers.
 
