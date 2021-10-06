@@ -1,5 +1,5 @@
 # charlotte-java
-An attempt to [re]do the charlotte protocol as a java thing
+Prototype implementation of the Charlotte ADDS framework.
 
 * compile with `mvn compile`
 * unit test with `mvn test`
