@@ -1,5 +1,5 @@
-# charlotte-java
-An attempt to [re]do the charlotte protocol as a java thing
+# charlotte-public
+Charlotte gRPC spec and implementation of example servers (in java)
 
 * compile with `mvn compile`
 * unit test with `mvn test`
