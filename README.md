@@ -1,5 +1,7 @@
 # charlotte-public
-Charlotte gRPC spec and implementation of example servers (in java)
+Prototype implementation of the Charlotte ADDS framework.
+
+Includes gRPC spec and implementation of example servers.
 
 * compile with `mvn compile`
 * unit test with `mvn test`
